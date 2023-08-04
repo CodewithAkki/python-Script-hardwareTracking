@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="IBM437"?>
+<Containers xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LicenseContainer>
+    <IsPseudoContainer>false</IsPseudoContainer>
+    <IsSupported>true</IsSupported>
+    <Licenses>
+      <VectorLicense>
+        <IsBorrowable>false</IsBorrowable>
+        <Quantity>1</Quantity>
+        <IsPerpetual>true</IsPerpetual>
+        <Committer xsi:nil="true" />
+        <ContractId>0000000000</ContractId>
+        <LicenseRestriction>Perpetual</LicenseRestriction>
+        <StartDate>2000-01-01T00:00:00</StartDate>
+        <FinalExpirationDateString>9999-12-31T23:59:59</FinalExpirationDateString>
+        <VectorLicenseId>55000265265</VectorLicenseId>
+        <ReactivationPeriod>12</ReactivationPeriod>
+        <LicenseId>3084970</LicenseId>
+        <MaterialNumber>55000</MaterialNumber>
+        <ProductText>CANoe PRO</ProductText>
+        <ExpirationDateString>2024-01-06T23:59:59</ExpirationDateString>
+        <MaxVersion>16.0</MaxVersion>
+        <IsReactivatable>true</IsReactivatable>
+        <IsEULA>true</IsEULA>
+        <AGBPeriod>90</AGBPeriod>
+        <AGBCounter>3</AGBCounter>
+        <ItemVersion>3</ItemVersion>
+        <LicenseType>Device</LicenseType>
+        <LicenseTypeName>Device</LicenseTypeName>
+        <LicenseModelName>Perpetual</LicenseModelName>
+        <BindingTypeRaw>DEVICE</BindingTypeRaw>
+        <InMigration>false</InMigration>
+        <NameListMode>User</NameListMode>
+        <NameListId>0</NameListId>
+      </VectorLicense>
+      <VectorLicense>
+        <IsBorrowable>false</IsBorrowable>
+        <Quantity>1</Quantity>
+        <IsPerpetual>true</IsPerpetual>
+        <Committer xsi:nil="true" />
+        <ContractId>0000000000</ContractId>
+        <LicenseRestriction>Perpetual</LicenseRestriction>
+        <StartDate>2000-01-01T00:00:00</StartDate>
+        <FinalExpirationDateString>9999-12-31T23:59:59</FinalExpirationDateString>
+        <VectorLicenseId>55014022983</VectorLicenseId>
+        <ReactivationPeriod>12</ReactivationPeriod>
+        <LicenseId>3084971</LicenseId>
+        <MaterialNumber>55014</MaterialNumber>
+        <ProductText>CANoe PRO Option .AMD/XCP</ProductText>
+        <ExpirationDateString>2024-01-06T23:59:59</ExpirationDateString>
+        <MaxVersion>16.0</MaxVersion>
+        <IsReactivatable>true</IsReactivatable>
+        <IsEULA>true</IsEULA>
+        <AGBPeriod>90</AGBPeriod>
+        <AGBCounter>3</AGBCounter>
+        <ItemVersion>3</ItemVersion>
+        <LicenseType>Device</LicenseType>
+        <LicenseTypeName>Device</LicenseTypeName>
+        <LicenseModelName>Perpetual</LicenseModelName>
+        <BindingTypeRaw>DEVICE</BindingTypeRaw>
+        <InMigration>false</InMigration>
+        <NameListMode>User</NameListMode>
+        <NameListId>0</NameListId>
+      </VectorLicense>
+      <VectorLicense>
+        <IsBorrowable>false</IsBorrowable>
+        <Quantity>1</Quantity>
+        <IsPerpetual>true</IsPerpetual>
+        <Committer xsi:nil="true" />
+        <ContractId>0000000000</ContractId>
+        <LicenseRestriction>Perpetual</LicenseRestriction>
+        <StartDate>2000-01-01T00:00:00</StartDate>
+        <FinalExpirationDateString>9999-12-31T23:59:59</FinalExpirationDateString>
+        <VectorLicenseId>55009012280</VectorLicenseId>
+        <ReactivationPeriod>12</ReactivationPeriod>
+        <LicenseId>3084972</LicenseId>
+        <MaterialNumber>55009</MaterialNumber>
+        <ProductText>CANoe PRO Option .J1939</ProductText>
+        <ExpirationDateString>2024-01-06T23:59:59</ExpirationDateString>
+        <MaxVersion>16.0</MaxVersion>
+        <IsReactivatable>true</IsReactivatable>
+        <IsEULA>true</IsEULA>
+        <AGBPeriod>90</AGBPeriod>
+        <AGBCounter>3</AGBCounter>
+        <ItemVersion>3</ItemVersion>
+        <LicenseType>Device</LicenseType>
+        <LicenseTypeName>Device</LicenseTypeName>
+        <LicenseModelName>Perpetual</LicenseModelName>
+        <BindingTypeRaw>DEVICE</BindingTypeRaw>
+        <InMigration>false</InMigration>
+        <NameListMode>User</NameListMode>
+        <NameListId>0</NameListId>
+      </VectorLicense>
+    </Licenses>
+    <ContainerTime>2023-03-01T10:10:25</ContainerTime>
+    <IsHormEnabled>false</IsHormEnabled>
+    <Mask>130</Mask>
+    <HardwareType>VN1640A</HardwareType>
+    <HardwareTypeID>0</HardwareTypeID>
+    <Serial>3667783540</Serial>
+    <ContainerType>Hardware</ContainerType>
+    <DeviceArticleNumber>7114</DeviceArticleNumber>
+    <DeviceSerialNumber>536846</DeviceSerialNumber>
+    <Name>VN1640A (SN. 007114-536846)</Name>
+    <MajorVersion>3</MajorVersion>
+    <MinorVersion>0</MinorVersion>
+    <ArticleId>2012</ArticleId>
+    <Status>4864</Status>
+    <ContainerStatus>Ok</ContainerStatus>
+  </LicenseContainer>
+</Containers>
